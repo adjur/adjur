@@ -28,7 +28,7 @@
 * 💬 **LinkedIn:** www.linkedin.com/in/andi-djurdjevic
 
 ## Check Out My Projects! ⬇️
-* **NYT Wordle Clone - This is a simple clone of the popular word-guessing game Wordle from The New York Times.
+* **NYT Wordle Clone** (https://adjur.github.io/WordleClone/) - This is a simple clone of the popular word-guessing game Wordle from The New York Times.
 
 Thank you for taking the time to explore my profile and projects!
 
