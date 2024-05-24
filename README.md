@@ -2,38 +2,34 @@
 
 ## About Me
 
-👤 **Name:** [Your Name]
+👤 **Name:** Andi Djurdjevic
 
-🌱 **I'm currently learning:** [Your current learning focus, e.g., front-end development, React, etc.]
+🌱 **I'm currently learning:** Front-end development & React best practices.
 
-👀 **I’m interested in:** [Your interests that are relevant to GitHub, such as coding, design, open-source projects, etc.]
+👀 **I’m interested in:** Collaberating and creating clever projects with interesting people.
 
-🎓 **Education:** [Your educational background]
+🎓 **Education:** Southern New Hampshire University
 
-💼 **Work experience:** [Brief overview of your relevant job experiences]
-
-🔍 **Current projects:** [Briefly mention any projects you're currently working on]
+🔍 **Current projects:** Replications of all the NYT games that have me in a chokehold.
 
 ## Technologies & Tools
-* 🖥️ **Languages:** [e.g., JavaScript, Python]
-* 🛠️ **Frameworks/Tools:** [e.g., React, Node.js, VS Code]
-* 📊 **Databases:** [e.g., MongoDB, SQL]
-* 🎨 **Design:** [e.g., Adobe XD, Figma]
+* 🖥️ **Languages:** HTML, CSS, JavaScript
+* 🛠️ **Frameworks/Tools:** React, Node.js, Express, Bootstrap, Bulma, Babel, Vite
+* 📊 **Databases:** MongoDB, SQL
+* 🎨 **Design:** Adobe XD, Figma
+* 🔧 **Concepts/Techniques:** OOP, CRUD, REST, EJS, Formik
 
 ## My Goals
-* 📈 **Short-term goal:** [Your short-term goal, e.g., master React]
-* 🚀 **Long-term goal:** [Your long-term career or personal goal]
-
-## Fun Facts
-* [Some interesting or quirky facts about yourself]
+* 📈 **Short-term goal:** Sharpen my Technical Skills & Build a Professional Network
+* 🚀 **Long-term goal:** Obtain a Master’s Degree in Computer Science & Pursue a Career in Technology for Social Good
 
 ## Contact Me
-* 📧 **Email:** [Your email]
-* 💬 **LinkedIn:** [LinkedIn profile link]
-* 🐦 **Twitter:** [Twitter profile link]
+* 📧 **Email:** a.djur_12@hotmail.com
+* 💬 **LinkedIn:** www.linkedin.com/in/andi-djurdjevic
 
 ## Check Out My Projects! ⬇️
-* **[Project Name](link-to-repo)** - [Short description of the project]
-* **[Another Project Name](link-to-repo)** - [Short description of the project]
+* **NYT Wordle Clone(https://adjur.github.io/WordleClone/)** - This is a simple clone of the popular word-guessing game Wordle from The New York Times.
 
-Feel free to star some repositories and follow my GitHub to stay tuned to my updates!
+Thank you for taking the time to explore my profile and projects!
+
+
