@@ -4,13 +4,13 @@
 
 👤 **Name:** Andi Djurdjevic
 
-🌱 **I'm currently learning:** Front-end development & React best practices.
+🌱 **I'm currently learning:** Front-end development & React best practices
 
-👀 **I’m interested in:** Collaberating and creating clever projects with interesting people.
+👀 **I’m interested in:** Collaborating and creating clever projects with interesting people
 
 🎓 **Education:** Southern New Hampshire University
 
-🔍 **Current projects:** Replications of all the NYT games that have me in a chokehold.
+🔍 **Current projects:** Replications of all the NYT games that have me in a chokehold
 
 ## Technologies & Tools
 * 🖥️ **Languages:** HTML, CSS, JavaScript
@@ -28,8 +28,9 @@
 * 💬 **LinkedIn:** www.linkedin.com/in/andi-djurdjevic
 
 ## Check Out My Projects! ⬇️
-* **NYT Wordle Clone(https://adjur.github.io/WordleClone/)** - This is a simple clone of the popular word-guessing game Wordle from The New York Times.
+* **NYT Wordle Clone - This is a simple clone of the popular word-guessing game Wordle from The New York Times.
 
 Thank you for taking the time to explore my profile and projects!
+
 
 
