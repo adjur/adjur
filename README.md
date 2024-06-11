@@ -4,7 +4,7 @@
 
 👤 **Name:** Andi Djurdjevic
 
-🌱 **I'm currently learning:** Front-end development & React best practices
+🌱 **I'm currently learning:** Next.js & React best practices
 
 👀 **I’m interested in:** Collaborating and creating clever projects with interesting people
 
