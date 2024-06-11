@@ -25,7 +25,7 @@
 
 ## Contact Me
 * 📧 **Email:** a.djur_12@hotmail.com
-* 📄 **Portfolio:** https://andidjportfolio.netlify.app/
+* 📄 **Portfolio:** https://a-djur-portfolio.vercel.app/
 * 💬 **LinkedIn:** www.linkedin.com/in/andi-djurdjevic
 
 ## Check Out My Projects! ⬇️
