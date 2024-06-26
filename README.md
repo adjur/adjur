@@ -24,7 +24,7 @@
 * 🚀 **Long-term goal:** Obtain a Master’s Degree in Computer Science & Pursue a Career in Technology for Social Good
 
 ## Contact Me
-* 📧 **Email:** a.djur_12@hotmail.com
+* 📧 **Email:** andidjur@gmail.com
 * 📄 **Portfolio:** https://a-djur-portfolio.vercel.app/
 * 💬 **LinkedIn:** www.linkedin.com/in/andi-djurdjevic
 
