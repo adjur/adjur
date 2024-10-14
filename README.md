@@ -2,7 +2,7 @@
 
 ## About Me
 
-👤 **Name:** Andi Djurdjevic
+👤 **Name:** Andriana Djurdjevic
 
 🌱 **I'm currently learning:** Next.js best practices
 
